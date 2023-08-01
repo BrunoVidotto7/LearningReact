@@ -10,15 +10,5 @@ root.render(
       <h1>Calculator</h1>
       <Calculator />
     </div>
-    
   </React.StrictMode>
-);
-
-
-ReactDOM.render(
-  <div>
-    <h1>Calculator</h1>
-    <Calculator/>
-  </div>,
-  document.getElementById('root')
 );
